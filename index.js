@@ -99,3 +99,11 @@
 // -- JOIN artist ar ON ar.artist_id = al.artist_id
 // -- GROUP BY ar.name;
 
+// -- SELECT DISTINCT composer
+// -- FROM track;
+
+// -- SELECT DISTINCT billing_postal_code
+// -- FROM invoice;
+
+// -- SELECT DISTINCT company
+// -- FROM customer;
